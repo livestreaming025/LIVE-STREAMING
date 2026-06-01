@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-referrer=https://tv.mt-trader.com/
 https://tv.mt-trader.com/livelan/stream.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjoh5-bgs6W-v-8DK6OAX_7FkQBhJtYmo8AQlcSYjXSqXpUaE7WLkaTySETlcz6RuEJZu8F5JissU4AGGMsfWufKvH-eGHX33HFY2MA6bYsUwPlWZ_F2obAC8jEBbVlyUR4UGERCa4nfpAmKDZYA4kk6fsbeZBdwnNy_2d1b39Xq0q9g6iWuZf_FJZuvN19=w200",Zvstreams
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/7tGXZFPm/IMG-20260601-101034.png",Zvstreams
 #EXTVLCOPT:http-referrer=https://www.livemotogp.net
 https://s2.strea.ru/index.m3u8
 
