@@ -77,7 +77,7 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
-#EXTINF: -1 tvg-logo="https://cdn.aceimg.com/480993ebd.jpg" group-title="Formula 1",beIN SPORTS 1 V+ PREMIUM
+#EXTINF: -1 tvg-logo="https://cdn.aceimg.com/JKSeBntYu.jpg" group-title="Formula 1",beIN SPORTS 1 V+ PREMIUM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -85,7 +85,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="Formula 1" tvg-logo="https://cdn.aceimg.com/480993ebd.jpg",beIN SPORTS 1 MY
+#EXTINF:-1 group-title="Formula 1" tvg-logo="https://cdn.aceimg.com/JKSeBntYu.jpg",beIN SPORTS 1 MY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
