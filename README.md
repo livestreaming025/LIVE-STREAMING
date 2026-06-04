@@ -32,7 +32,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://cdn.aceimg.com/51645629d.png" group-title="MotoGP",TNT SPORTS 2
+#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://cdn.aceimg.com/Nacb6TxpD.jpg" group-title="MotoGP",TNT SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,7 +63,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://cdn.aceimg.com/53688acf0.png" group-title="WorldSBK",TNT SPORTS 4
+#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://cdn.aceimg.com/OZR7LFiy6.jpg" group-title="WorldSBK",TNT SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
