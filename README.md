@@ -3,7 +3,11 @@
 #EXTVLCOPT:http-referrer=https://tv.mt-trader.com/
 https://tv.mt-trader.com/livelan/stream.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/7tGXZFPm/IMG-20260601-101034.png",ZVStreams
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/7tGXZFPm/IMG-20260601-101034.png",SERVER 1 ZVStreams
+#EXTVLCOPT:http-referrer=https://www.zvstreams.com/?m=1
+https://s1.strea.ru/index.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/7tGXZFPm/IMG-20260601-101034.png",SERVER 2 ZVStreams
 #EXTVLCOPT:http-referrer=https://www.livemotogp.net
 https://s2.strea.ru/index.m3u8
 
