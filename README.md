@@ -58,6 +58,10 @@ https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMASPORT3-1.png.webp" group-title="MotoGP" ,Prima Sport 3 
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 <!=WorldSBK=>
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
