@@ -13,6 +13,11 @@ https://s2.strea.ru/index.m3u8
 https://master4.idxplayer.com/hls/1/stream.m3u8?player=1&t=1780112187572
 
 <!=MotoGP=>
+#EXTINF:-1 tvg-id="TNT Sports 2.uk" tvg-logo="https://i.ibb.co.com/jPWxZzh2/Moto-GPChannel-horizontal-art-1920x1080-Eddie-Hunter-Higgins.jpg" group-title="MotoGP",MGP TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
@@ -71,7 +76,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 <!=Formula 1=>
-#EXTINF:-1 tvg-id="F1 TV" group-title="Formula 1" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2022/03/f1-tv-801x447.jpg",F1 TV
+#EXTINF:-1 tvg-id="F1 TV" group-title="Formula 1" tvg-logo="https://i.ibb.co.com/kgxZp0yM/images.png",F1 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
