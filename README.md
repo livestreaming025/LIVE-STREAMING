@@ -12,6 +12,10 @@ https://s2.strea.ru/index.m3u8
 #EXTVLCOPT:http-referrer=https://nontongp.site/
 https://master4.idxplayer.com/hls/1/stream.m3u8?player=1&t=1780112187572
 
+<!=RedBull MOTOGP ROOKIES CUP=>
+#EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://i.ibb.co.com/GqYHq4S/library-upload-24-2025-12-1280x720-red-bull-rookies-cup-ccc9de3.jpg" group-title="RedBull MOTOGP ROOKIES CUP",RedBull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 <!=MotoGP=>
 #EXTINF:-1 tvg-id="TNT Sports 2.uk" tvg-logo="https://i.ibb.co.com/jPWxZzh2/Moto-GPChannel-horizontal-art-1920x1080-Eddie-Hunter-Higgins.jpg" group-title="MotoGP",MGP TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
